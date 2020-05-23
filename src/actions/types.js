@@ -1,0 +1,3 @@
+export const SAVE_COMMENT = 'SAVE_COMMENT';
+export const REMOVE_COMMENT = 'REMOVE_COMMENT';
+export const SORT_COMMENTS = 'SORT_COMMENTS';
